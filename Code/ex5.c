@@ -1,4 +1,4 @@
-//NIKOLAOS SERGIS 18390173 PADA EX_5a
+//NIKOLAOS SERGIS PADA EX_5a
 
 #include <stdio.h> //basic library for input/output 
 #include <openssl/bn.h> //library that helps the computer to deal with big numbers and not cause overflow
